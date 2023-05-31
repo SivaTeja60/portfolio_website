@@ -1,2 +1,3 @@
 # responsive-portfolio
- Built my personal portfolio
+
+My personal portfolio 
